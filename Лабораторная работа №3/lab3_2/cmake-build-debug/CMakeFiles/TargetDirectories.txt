@@ -1,0 +1,3 @@
+C:/Users/solar/Desktop/Entrance to C labs/lab3_2/cmake-build-debug/CMakeFiles/lab3_2.dir
+C:/Users/solar/Desktop/Entrance to C labs/lab3_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/solar/Desktop/Entrance to C labs/lab3_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
