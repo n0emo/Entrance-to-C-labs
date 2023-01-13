@@ -7,5 +7,5 @@ $$
 {4 \sqrt{cos(\alpha+\beta) \cdot cos(\alpha = \beta)}} 
 $$
 
-если $ L=28 см; \alpha = 40\degree; \beta = 30\degree $
+если $L=28 см; \alpha = 40\degree; \beta = 30\degree$
 
