@@ -4,7 +4,7 @@
  
 $$ 
 \frac{L^3 sin2\alpha \cdot sin\beta \cdot cos\alpha}
-{4 \sqrt{cos(\alpha+\beta) \cdot cos(\alpha = \beta)}} 
+{4 \sqrt{cos(\alpha+\beta) \cdot cos(\alpha - \beta)}} 
 $$
 
 если $L=28 см; \alpha = 40\degree; \beta = 30\degree$
